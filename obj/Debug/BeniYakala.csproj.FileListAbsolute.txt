@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NTDers10\BeniYakala\bin\Debug\BeniYakala.exe.config
+C:\Users\Section2\source\repos\NTDers10\BeniYakala\bin\Debug\BeniYakala.exe
+C:\Users\Section2\source\repos\NTDers10\BeniYakala\bin\Debug\BeniYakala.pdb
+C:\Users\Section2\source\repos\NTDers10\BeniYakala\obj\Debug\BeniYakala.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NTDers10\BeniYakala\obj\Debug\BeniYakala.Form1.resources
+C:\Users\Section2\source\repos\NTDers10\BeniYakala\obj\Debug\BeniYakala.Properties.Resources.resources
+C:\Users\Section2\source\repos\NTDers10\BeniYakala\obj\Debug\BeniYakala.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NTDers10\BeniYakala\obj\Debug\BeniYakala.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NTDers10\BeniYakala\obj\Debug\BeniYakala.exe
+C:\Users\Section2\source\repos\NTDers10\BeniYakala\obj\Debug\BeniYakala.pdb
